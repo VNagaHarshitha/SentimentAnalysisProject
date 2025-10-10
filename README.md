@@ -19,10 +19,10 @@ a notification is automatically sent to a Slack channel.
 
 Task 4 – Streamlit Dashboard Deployment.
 Developed an interactive Streamlit dashboard to visualize:
-Live news data
-Sentiment scores
-Forecast results and trends
-sending alert
+Live news data,
+Sentiment scores,
+Forecast results and trends,
+sending alert.
 Deployed the Streamlit app for easy access and real-time monitoring.
 
 # License
